@@ -64,8 +64,5 @@ This extension:
 ## Changes to the Extension
 The extension operates entirely within your browser and any updates will be distributed through the Chrome Web Store. Users will be notified of updates through the standard Chrome extension update process.
 
-## Contact Information
-For any questions about this privacy policy or the extension's functionality, please contact us at [Your Contact Information].
-
 ## Changes to This Policy
 We reserve the right to update this privacy policy at any time. Any changes will be reflected in the "Last Updated" date.
